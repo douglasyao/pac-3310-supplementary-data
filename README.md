@@ -55,7 +55,3 @@ The separate `functional_profile_figure.ipynb` notebook reads the processed repl
 ## OT-2 protocols
 
 The 12 Opentrons OT-2 protocols are organized by assay under `ot2_protocols/`. Filenames and protocol metadata use PAC-3310 rather than the legacy `8-3` label. The antagonism protocols identify the fixed carbachol concentration used for each receptor subtype.
-
-## Missing data
-
-No missing data were identified for the PAC-3310 cell experiments described in the report; see `MISSING_DATA.md` for the completed checklist. ACh-release and qPCR experiments are not part of this PAC-3310 study and therefore are intentionally absent.
