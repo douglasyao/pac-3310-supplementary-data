@@ -44,8 +44,6 @@ Each assay has `raw/` and `processed/` subdirectories. The public raw tables are
 - Raw files contain time-series fluorescence traces for four replicate wells per concentration.
 - Processed files contain bi-exponential transient-fit parameters, ΔF/F0 responses, control responses, and concentration-response fit statistics.
 
-The `source_manifest.csv` files document the original plate-reader export names, condition assignments, replicate counts, and assay-specific corrections. Legacy source labels of `8-3` are reported as `PAC-3310` in the canonical public tables.
-
 ## Notebooks
 
 The two consolidated assay notebooks contain the complete cAMP and calcium-flux analysis pipelines. Run them from the `notebooks/` directory. They read from the corresponding `data/*/raw/` folder, regenerate files in `data/*/processed/`, and create assay-specific figures in a local ignored `figures/` directory.
@@ -54,4 +52,4 @@ The separate `functional_profile_figure.ipynb` notebook reads the processed repl
 
 ## OT-2 protocols
 
-The 12 Opentrons OT-2 protocols are organized by assay under `ot2_protocols/`. Filenames and protocol metadata use PAC-3310 rather than the legacy `8-3` label. The antagonism protocols identify the fixed carbachol concentration used for each receptor subtype.
+The 12 Opentrons OT-2 protocols are organized by assay under `ot2_protocols/`. The antagonism protocols identify the fixed carbachol concentration used for each receptor subtype.
