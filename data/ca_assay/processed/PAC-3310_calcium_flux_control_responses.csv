@@ -1,0 +1,37 @@
+Condition,Receptor,Assay Mode,Control Label,Replicate,Peak Fluorescence (RFU),F0 (RFU),F0 Source,Control ΔF/F0
+Carbachol dose titration (M1),M1,Carbachol agonism,Vehicle Control,1,34.561216933724246,33.307377049180324,Carbachol dose titration (M1) / Vehicle Control,0.037644509884178286
+Carbachol dose titration (M1),M1,Carbachol agonism,Vehicle Control,2,33.91806334877756,33.307377049180324,Carbachol dose titration (M1) / Vehicle Control,0.01833486613777839
+Carbachol dose titration (M1),M1,Carbachol agonism,Vehicle Control,3,34.013170639380974,33.307377049180324,Carbachol dose titration (M1) / Vehicle Control,0.021190308355968798
+Carbachol dose titration (M1),M1,Carbachol agonism,Vehicle Control,4,33.531143408655886,33.307377049180324,Carbachol dose titration (M1) / Vehicle Control,0.006718222186789351
+PAC-3310 dose titration (M1),M1,PAC-3310 agonism,Vehicle Control,1,33.304487627951296,32.705128205128204,PAC-3310 dose titration (M1) / Vehicle Control,0.01832616032152143
+PAC-3310 dose titration (M1),M1,PAC-3310 agonism,Vehicle Control,2,33.02013492798678,32.705128205128204,PAC-3310 dose titration (M1) / Vehicle Control,0.009631722611904743
+PAC-3310 dose titration (M1),M1,PAC-3310 agonism,Vehicle Control,3,32.922513125632186,32.705128205128204,PAC-3310 dose titration (M1) / Vehicle Control,0.00664681450384577
+PAC-3310 dose titration (M1),M1,PAC-3310 agonism,Vehicle Control,4,33.853421291520185,32.705128205128204,PAC-3310 dose titration (M1) / Vehicle Control,0.03511049029344354
+PAC-3310 + 500 nM carbachol (M1),M1,PAC-3310 antagonism,Carbachol-only Control (500 nM),1,63.84296117925959,32.705128205128204,PAC-3310 dose titration (M1) / Vehicle Control,0.9520779976410224
+PAC-3310 + 500 nM carbachol (M1),M1,PAC-3310 antagonism,Carbachol-only Control (500 nM),2,60.832213233376415,32.705128205128204,PAC-3310 dose titration (M1) / Vehicle Control,0.8600206319887732
+PAC-3310 + 500 nM carbachol (M1),M1,PAC-3310 antagonism,Carbachol-only Control (500 nM),3,65.63903664201598,32.705128205128204,PAC-3310 dose titration (M1) / Vehicle Control,1.0069952403282032
+PAC-3310 + 500 nM carbachol (M1),M1,PAC-3310 antagonism,Carbachol-only Control (500 nM),4,63.445081652333286,32.705128205128204,PAC-3310 dose titration (M1) / Vehicle Control,0.9399123359004298
+Carbachol dose titration (M3),M3,Carbachol agonism,Vehicle Control,1,40.13714924758934,40.700819672131146,Carbachol dose titration (M3) / Vehicle Control,-0.013849117267969016
+Carbachol dose titration (M3),M3,Carbachol agonism,Vehicle Control,2,43.96411924402599,40.700819672131146,Carbachol dose titration (M3) / Vehicle Control,0.08017773593216607
+Carbachol dose titration (M3),M3,Carbachol agonism,Vehicle Control,3,40.72560566931523,40.700819672131146,Carbachol dose titration (M3) / Vehicle Control,0.0006089802953293851
+Carbachol dose titration (M3),M3,Carbachol agonism,Vehicle Control,4,41.096577175626145,40.700819672131146,Carbachol dose titration (M3) / Vehicle Control,0.009723575758008215
+PAC-3310 dose titration (M3),M3,PAC-3310 agonism,Vehicle Control,1,47.569709553961054,44.3034188034188,PAC-3310 dose titration (M3) / Vehicle Control,0.0737254785016772
+PAC-3310 dose titration (M3),M3,PAC-3310 agonism,Vehicle Control,2,43.1724381868554,44.3034188034188,PAC-3310 dose titration (M3) / Vehicle Control,-0.025528066391032632
+PAC-3310 dose titration (M3),M3,PAC-3310 agonism,Vehicle Control,3,44.01566004213856,44.3034188034188,PAC-3310 dose titration (M3) / Vehicle Control,-0.006495181840414346
+PAC-3310 dose titration (M3),M3,PAC-3310 agonism,Vehicle Control,4,45.84076285866249,44.3034188034188,PAC-3310 dose titration (M3) / Vehicle Control,0.03470034811681514
+PAC-3310 + 100 nM carbachol (M3),M3,PAC-3310 antagonism,Carbachol-only Control (100 nM),1,52.87581523856843,44.3034188034188,PAC-3310 dose titration (M3) / Vehicle Control,0.19349288760731292
+PAC-3310 + 100 nM carbachol (M3),M3,PAC-3310 antagonism,Carbachol-only Control (100 nM),2,56.94337256389052,44.3034188034188,PAC-3310 dose titration (M3) / Vehicle Control,0.2853042519485273
+PAC-3310 + 100 nM carbachol (M3),M3,PAC-3310 antagonism,Carbachol-only Control (100 nM),3,55.514692095934166,44.3034188034188,PAC-3310 dose titration (M3) / Vehicle Control,0.2530566171938454
+PAC-3310 + 100 nM carbachol (M3),M3,PAC-3310 antagonism,Carbachol-only Control (100 nM),4,56.834308368339705,44.3034188034188,PAC-3310 dose titration (M3) / Vehicle Control,0.28284249620830443
+Carbachol dose titration (M5),M5,Carbachol agonism,Vehicle Control,1,50.805674378777354,52.75,Carbachol dose titration (M5) / Vehicle Control,-0.03685925348289376
+Carbachol dose titration (M5),M5,Carbachol agonism,Vehicle Control,2,57.42780376967415,52.75,Carbachol dose titration (M5) / Vehicle Control,0.08867874444879904
+Carbachol dose titration (M5),M5,Carbachol agonism,Vehicle Control,3,54.84901442390547,52.75,Carbachol dose titration (M5) / Vehicle Control,0.03979174263327911
+Carbachol dose titration (M5),M5,Carbachol agonism,Vehicle Control,4,52.537217219452515,52.75,Carbachol dose titration (M5) / Vehicle Control,-0.00403379678763005
+PAC-3310 dose titration (M5),M5,PAC-3310 agonism,Vehicle Control,1,56.4603434816965,54.60245901639344,PAC-3310 dose titration (M5) / Vehicle Control,0.03402565559813453
+PAC-3310 dose titration (M5),M5,PAC-3310 agonism,Vehicle Control,2,54.21322726477841,54.60245901639344,PAC-3310 dose titration (M5) / Vehicle Control,-0.007128465615406963
+PAC-3310 dose titration (M5),M5,PAC-3310 agonism,Vehicle Control,3,54.43602784381278,54.60245901639344,PAC-3310 dose titration (M5) / Vehicle Control,-0.003048052699067827
+PAC-3310 dose titration (M5),M5,PAC-3310 agonism,Vehicle Control,4,56.04990656913267,54.60245901639344,PAC-3310 dose titration (M5) / Vehicle Control,0.026508834561913473
+PAC-3310 + 500 nM carbachol (M5),M5,PAC-3310 antagonism,Carbachol-only Control (500 nM),1,62.5735897299111,54.60245901639344,PAC-3310 dose titration (M5) / Vehicle Control,0.14598483030085635
+PAC-3310 + 500 nM carbachol (M5),M5,PAC-3310 antagonism,Carbachol-only Control (500 nM),2,70.29719102808144,54.60245901639344,PAC-3310 dose titration (M5) / Vehicle Control,0.28743635899210934
+PAC-3310 + 500 nM carbachol (M5),M5,PAC-3310 antagonism,Carbachol-only Control (500 nM),3,68.82736643790213,54.60245901639344,PAC-3310 dose titration (M5) / Vehicle Control,0.26051770703656235
+PAC-3310 + 500 nM carbachol (M5),M5,PAC-3310 antagonism,Carbachol-only Control (500 nM),4,69.34494920276235,54.60245901639344,PAC-3310 dose titration (M5) / Vehicle Control,0.26999681794445807

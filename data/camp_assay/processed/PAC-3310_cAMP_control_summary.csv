@@ -1,0 +1,9 @@
+Condition,Receptor,Assay Mode,Control,Mean cAMP (pmol/mL),SEM cAMP (pmol/mL),n
+Carbachol dose titration (M2),M2,Carbachol agonism,Vehicle Control,193.32740988102807,23.987559869971268,8
+PAC-3310 dose titration (M2),M2,PAC-3310 agonism,Vehicle Control,190.36455978081398,15.550411448469587,8
+PAC-3310 + 20 nM carbachol (M2),M2,PAC-3310 antagonism,Carbachol-only Control (20 nM),129.2275048041714,8.89318494241403,8
+PAC-3310 + 20 nM carbachol (M2),M2,PAC-3310 antagonism,Vehicle Control,232.17421973319162,11.901544331323452,8
+Carbachol dose titration (M4),M4,Carbachol agonism,Vehicle Control,90.3923441842589,6.3540615598905745,8
+PAC-3310 dose titration (M4),M4,PAC-3310 agonism,Vehicle Control,175.69545014543888,7.809339531965414,8
+PAC-3310 + 100 nM carbachol (M4),M4,PAC-3310 antagonism,Carbachol-only Control (100 nM),67.9926761467778,6.703908825331552,8
+PAC-3310 + 100 nM carbachol (M4),M4,PAC-3310 antagonism,Vehicle Control,184.94219438026923,17.731212551326664,8
